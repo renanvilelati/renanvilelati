@@ -2,9 +2,8 @@
 I'm a web developer and UI designer, who love to learn new things every day. I enjoy creating websites, applications, or anything in between. I love a challenge, something different sometimes is pretty cool! In my free time, I used watching series, do exercises, and go to the beach.
 
 ## 🚀 Last Projects
-- [Finance App](https://github.com/renanvilelati/dt-money)
-- [Todo List](https://github.com/renanvilelati/task-list)
-- [CineFlix](https://github.com/renanvilelati/cineflix-project)
+- [Finance App](https://github.com/renanvilelati/dt-money) (React, TS, Styled Components...)
+- [CineFlix](https://github.com/renanvilelati/cineflix-project) (React, TS, Styled Components, Firebase Auth e DB )
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Envelope%20with%20Arrow.png" alt="Envelope with Arrow" width="25" height="25" /> Contact
 
@@ -32,6 +31,15 @@ I'm a web developer and UI designer, who love to learn new things every day. I e
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+![MySql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
+![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+	![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ### UI Design
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
