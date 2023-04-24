@@ -1,6 +1,11 @@
 # Hi there, I'm Renan Vilela <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Teddy%20Bear.png" alt="Teddy Bear" width="40" height="40" />
 I'm a web developer and UI designer, who love to learn new things every day. I enjoy creating websites, applications, or anything in between. I love a challenge, something different sometimes is pretty cool! In my free time, I used watching series, do exercises, and go to the beach.
 
+## 🚀 Last Projects
+- [Finance App](https://github.com/renanvilelati/dt-money)
+- [Todo List](https://github.com/renanvilelati/task-list)
+- [CineFlix](https://github.com/renanvilelati/cineflix-project)
+
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Envelope%20with%20Arrow.png" alt="Envelope with Arrow" width="25" height="25" /> Contact
 
 **E-mail**: renanvilelati@gmail.com
