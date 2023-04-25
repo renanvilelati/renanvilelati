@@ -3,7 +3,10 @@ I'm a web developer and UI designer, who love to learn new things every day. I e
 
 ## 🚀 Last Projects
 - [Finance App](https://github.com/renanvilelati/dt-money) (React, TS, Styled Components...)
+- [Ig.News](https://github.com/renanvilelati/ignews) (React, TS, NextJS, Sass, Firebase)
 - [CineFlix](https://github.com/renanvilelati/cineflix-project) (React, TS, Styled Components, Firebase Auth e DB )
+
+
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Envelope%20with%20Arrow.png" alt="Envelope with Arrow" width="25" height="25" /> Contact
 
