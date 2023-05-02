@@ -3,8 +3,9 @@ I'm a web developer and UI designer, who love to learn new things every day. I e
 
 ## 🚀 Last Projects
 - [Finance App](https://github.com/renanvilelati/dt-money) (React, TS, Styled Components...)
+- [Dev Feed](https://github.com/renanvilelati/feed-project) (React, TS, Styled Components, Firebase Auth and Storage)
 - [Ig.News](https://github.com/renanvilelati/ignews) (React, TS, NextJS, Sass, Firebase)
-- [CineFlix](https://github.com/renanvilelati/cineflix-project) (React, TS, Styled Components, Firebase Auth e DB )
+- [CineFlix](https://github.com/renanvilelati/cineflix-project) (React, TS, Styled Components, Firebase Auth and DB )
 
 
 
