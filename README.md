@@ -1,4 +1,4 @@
-# Hi there, I'm Renan Vilela <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Teddy%20Bear.png" alt="Teddy Bear" width="40" height="40" />
+# Hi there, I'm Renan Vilela <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien.png" alt="Alien" width="25" height="25" />
 I'm a web developer and UI designer, who love to learn new things every day. I enjoy creating websites, applications, or anything in between. I love a challenge, something different sometimes is pretty cool! In my free time, I used watching series, do exercises, and go to the beach.
 
 ## 🚀 Last Projects
