@@ -2,6 +2,7 @@
 I'm a web developer and UI designer, who love to learn new things every day. I enjoy creating websites, applications, or anything in between. I love a challenge, something different sometimes is pretty cool! In my free time, I used watching series, do exercises, and go to the beach.
 
 ## 🚀 Last Projects
+- [Travel Landing Page](https://github.com/renanvilelati/travel-landing-page) (React, NextJS, TypeScript, Tailwind CSS)
 - [Finance App](https://github.com/renanvilelati/dt-money) (React, TS, Styled Components...)
 - [Dev Feed](https://github.com/renanvilelati/feed-project) (React, TS, Styled Components, Firebase Auth and Storage)
 - [Task List](https://github.com/renanvilelati/tasklist-db-and-login) (React, Firebase, Styled Components...)
