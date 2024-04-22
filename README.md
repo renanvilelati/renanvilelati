@@ -3,6 +3,7 @@ I'm a web developer and UI designer, who love to learn new things every day. I e
 
 ## 🚀 Last Projects
 - [House Store](https://github.com/renanvilelati/house-store) (React, TypeScript, Tailwind CSS, Redux Toolkit, Shadcn UI)
+- [Financial Dashboard](https://github.com/renanvilelati/financial-dashboard) (Next, TypeScript, Styled Components, Context API)
 - [Travel Landing Page](https://github.com/renanvilelati/travel-landing-page) (React, NextJS, TypeScript, Tailwind CSS)
 - [Finance App](https://github.com/renanvilelati/dt-money) (React, TS, Styled Components...)
 - [Dev Feed](https://github.com/renanvilelati/feed-project) (React, TS, Styled Components, Firebase Auth and Storage)
