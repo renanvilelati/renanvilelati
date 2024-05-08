@@ -6,6 +6,8 @@ I'm a web developer and UI designer, who love to learn new things every day. I e
 - [House Store](https://github.com/renanvilelati/house-store) (React, TypeScript, Tailwind CSS, Redux Toolkit, Shadcn UI)
 - [Travel Landing Page](https://github.com/renanvilelati/travel-landing-page) (React, NextJS, TypeScript, Tailwind CSS)
 
+- Project I'm currently working on: [Game Tournaments](https://github.com/renanvilelati/tournament-game) 
+
 - **UI Portfólio**: <a href="https://www.behance.net/renanvilelati" target="_blank">https://www.behance.net/renanvilelati</a>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Envelope%20with%20Arrow.png" alt="Envelope with Arrow" width="25" height="25" /> Contact
